@@ -1,4 +1,4 @@
-module github.com/Anamon/xk6-smtp-noauth
+module github.com/feelimon/xk6-smtp-noauth
 
 go 1.25.0
 
